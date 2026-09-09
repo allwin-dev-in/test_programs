@@ -8,4 +8,4 @@ cmd => git commit -m "message"
 ## Command for working treen clean or list all untracked files
 cmd => git status
 
-master a
+master te
