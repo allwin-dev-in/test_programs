@@ -6,4 +6,6 @@ cmd => git add -A # for adding all files
 ## Command for adding staged files to local respository(commit)
 cmd => git commit -m "message"
 ## Command for working treen clean or list all untracked files
-cmd => git statatus
+cmd => git status
+
+master a
